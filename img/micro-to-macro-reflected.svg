@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 190 902.06">
+  <polygon points="15 30.11 40 0.16 40 0 165 0 165 60 40 60 40 60.06 15 30.11" fill="#c41565" />
+  <text transform="translate(46 40.67)" font-size="38" fill="#fff" font-family="FiraSans-Book, Fira Sans">macro</text>
+  <polygon points="15 872.11 40 842.16 40 842 165 842 165 902 40 902 40 902.06 15 872.11" fill="#c41565" />
+  <text transform="translate(46 885.67)" font-size="42" fill="#fff" font-family="FiraSans-Book, Fira Sans">micro</text>
+  <polygon points="46.03 87 56 69.73 65.97 87 59 87 59 400 54 400 54 87 46.03 87" fill="#c41565" />
+  <polygon points="54 816 54 503 59 503 59 816 65.97 816 56 833.27 46.03 816 54 816" fill="#c41565" />
+  <polygon points="0 451.13 40 411.13 40 411 190 411 190 491 40 491 40 491.13 0 451.13" fill="#2bb3bb" />
+  <text transform="translate(46 468.67)" font-size="52" fill="#fff" font-family="FiraSans-Book, Fira Sans">focus</text>
+</svg>

@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2023.96 1268.64">
+  <g class="service">
+    <g class="product">
+      <g class="flow">
+        <line x1="1880.91" y1="908.23" x2="2023.03" y2="1268.23" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="2" />
+        <line x1="1866.26" y1="908" x2="1866.26" y2="1268" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="2" />
+        <line x1="1854.03" y1="908.23" x2="1691.91" y2="1268.23" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="2" />
+        <text transform="translate(1856.04 887.44)" font-size="48" font-family="FiraSans-Light, Fira Sans">?</text>
+      </g>
+      <g class="flow">
+        <line x1="1460.91" y1="908.23" x2="1603.03" y2="1268.23" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="2" />
+        <line x1="1446.26" y1="908" x2="1446.26" y2="1268" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="2" />
+        <line x1="1434.03" y1="908.23" x2="1271.91" y2="1268.23" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="2" />
+        <text transform="translate(1393.77 887.44)" font-size="48" font-family="FiraSans-Light, Fira Sans">UMM</text>
+      </g>
+      <g class="flow">
+        <line x1="1040.91" y1="908.23" x2="1183.03" y2="1268.23" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="2" />
+        <line x1="1026.26" y1="908" x2="1026.26" y2="1268" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="2" />
+        <line x1="1014.03" y1="908.23" x2="851.91" y2="1268.23" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="2" />
+        <text transform="translate(940.87 887.44)" font-size="48" font-family="FiraSans-Light, Fira Sans">Intranet</text>
+      </g>
+      <g class="flow">
+        <line x1="609.91" y1="908.23" x2="752.03" y2="1268.23" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="2" />
+        <line x1="595.26" y1="908" x2="595.26" y2="1268" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="2" />
+        <line x1="583.03" y1="908.23" x2="420.91" y2="1268.23" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="2" />
+        <text transform="translate(482.42 887.44)" font-size="48" font-family="FiraSans-Light, Fira Sans">Day Ahead</text>
+      </g>
+      <g class="flow">
+        <line x1="189.91" y1="908.23" x2="332.03" y2="1268.23" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="2" />
+        <line x1="175.26" y1="908" x2="175.26" y2="1268" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="2" />
+        <line x1="163.03" y1="908.23" x2="0.91" y2="1268.23" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="2" />
+        <text transform="translate(165.04 887.44)" font-size="48" font-family="FiraSans-Light, Fira Sans">?</text>
+      </g>
+      <line x1="1099.91" y1="485.23" x2="1862.03" y2="845.23" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="2" />
+      <line x1="1059.91" y1="485.23" x2="1442.03" y2="845.23" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="2" />
+      <line x1="1025.26" y1="485" x2="1025.26" y2="845" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="2" />
+      <line x1="993.03" y1="485.23" x2="610.91" y2="845.23" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="2" />
+      <line x1="942.03" y1="485.23" x2="179.91" y2="845.23" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="2" />
+      <text transform="translate(937.35 464.44)" font-size="48" font-family="FiraSans-Light, Fira Sans">Extranet</text>
+    </g>
+    <line x1="1023.26" y1="61" x2="1023.26" y2="421" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="2" />
+    <text transform="translate(916.6 40.44)" font-size="48" font-family="FiraSans-Light, Fira Sans">Nord Pool</text>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240.22 2217.23">
+  <g>
+    <polygon points="240.22 2169.05 200 2120.86 200 2120 0 2120 0 2217 200 2217 200 2217.23 240.22 2169.05" fill="#c41565" />
+    <text transform="translate(29.2 2189.67)" font-size="64" fill="#fff" font-family="FiraSans-Book, Fira Sans">micro</text>
+  </g>
+  <g>
+    <polygon points="240.22 49.05 200 0.86 200 0 0 0 0 97 200 97 200 97.23 240.22 49.05" fill="#c41565" />
+    <text transform="translate(22.37 68.67)" font-size="64" fill="#fff" font-family="FiraSans-Book, Fira Sans">macro</text>
+  </g>
+  <polygon points="170 160 189.93 160 165 116.83 140.07 160 160 160 160 2060 140.07 2060 165 2103.17 189.93 2060 170 2060 170 160" fill="#c41565" />
+</svg>

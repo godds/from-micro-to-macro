@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1037.18 2177.23">
+  <g class="business">
+    <text class="interaction" transform="translate(382.68 2160.43)" font-size="48" font-family="FiraSans-Light, Fira Sans">µ-interaction</text>
+    <g class="task">
+      <text transform="translate(719.68 2160.43)" font-size="48" font-family="FiraSans-Light, Fira Sans">µ-interaction</text>
+      <line x1="557.53" y1="1757.23" x2="859.65" y2="2117.23" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="2" />
+      <line x1="523.68" y1="1757" x2="523.68" y2="2117" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="2" />
+      <text transform="translate(47.68 2160.43)" font-size="48" font-family="FiraSans-Light, Fira Sans">µ-interaction</text>
+      <line x1="490.65" y1="1757.23" x2="188.53" y2="2117.23" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="2" />
+      <text transform="translate(479.49 1736.44)" font-size="48" font-family="FiraSans-Light, Fira Sans">task</text>
+    </g>
+    <g class="flow">
+      <g class="task">
+        <line x1="910.53" y1="1757.23" x2="1036.41" y2="1907.23" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="2" />
+        <line x1="876.68" y1="1757" x2="876.68" y2="1907" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="2" />
+        <line x1="843.65" y1="1757.23" x2="717.77" y2="1907.23" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="2" />
+        <text transform="translate(832.49 1736.44)" font-size="48" font-family="FiraSans-Light, Fira Sans">task</text>
+      </g>
+      <g class="task">
+        <line x1="198.53" y1="1757.23" x2="324.41" y2="1907.23" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="2" />
+        <line x1="164.68" y1="1757" x2="164.68" y2="1907" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="2" />
+        <line x1="131.65" y1="1757.23" x2="5.77" y2="1907.23" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="2" />
+        <text transform="translate(120.49 1736.44)" font-size="48" font-family="FiraSans-Light, Fira Sans">task</text>
+      </g>
+      <line x1="557.53" y1="1332.23" x2="859.65" y2="1692.23" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="2" />
+      <line x1="523.68" y1="1332" x2="523.68" y2="1692" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="2" />
+      <line x1="490.65" y1="1332.23" x2="188.53" y2="1692.23" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="2" />
+      <text transform="translate(478.82 1311.44)" font-size="48" font-family="FiraSans-Light, Fira Sans">flow</text>
+    </g>
+    <g class="product">
+      <g class="flow">
+        <line x1="907.53" y1="1332.23" x2="1033.41" y2="1482.23" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="2" />
+        <line x1="873.68" y1="1332" x2="873.68" y2="1482" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="2" />
+        <line x1="840.65" y1="1332.23" x2="714.77" y2="1482.23" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="2" />
+        <text transform="translate(828.82 1311.44)" font-size="48" font-family="FiraSans-Light, Fira Sans">flow</text>
+      </g>
+      <g class="flow">
+        <line x1="196.53" y1="1332.23" x2="322.41" y2="1482.23" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="2" />
+        <line x1="162.68" y1="1332" x2="162.68" y2="1482" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="2" />
+        <line x1="129.65" y1="1332.23" x2="3.77" y2="1482.23" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="2" />
+        <text transform="translate(117.82 1311.44)" font-size="48" font-family="FiraSans-Light, Fira Sans">flow</text>
+      </g>
+      <line x1="556.53" y1="909.23" x2="858.65" y2="1269.23" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="2" />
+      <line x1="522.68" y1="909" x2="522.68" y2="1269" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="2" />
+      <line x1="489.65" y1="909.23" x2="187.53" y2="1269.23" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="2" />
+      <text transform="translate(438.41 888.44)" font-size="48" font-family="FiraSans-Light, Fira Sans">product</text>
+    </g>
+    <g class="service">
+      <g class="product">
+        <line x1="905.81" y1="909.23" x2="1031.69" y2="1059.23" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="2" />
+        <line x1="871.68" y1="909" x2="871.68" y2="1059" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="2" />
+        <line x1="838.93" y1="909.23" x2="713.05" y2="1059.23" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="2" />
+        <text transform="translate(787.69 888.44)" font-size="48" font-family="FiraSans-Light, Fira Sans">product</text>
+      </g>
+      <g class="product">
+        <line x1="193.53" y1="909.23" x2="319.41" y2="1059.23" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="2" />
+        <line x1="159.68" y1="909" x2="159.68" y2="1059" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="2" />
+        <line x1="126.65" y1="909.23" x2="0.77" y2="1059.23" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="2" />
+        <text transform="translate(75.41 888.44)" font-size="48" font-family="FiraSans-Light, Fira Sans">product</text>
+      </g>
+      <line x1="554.81" y1="485.23" x2="856.93" y2="845.23" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="2" />
+      <line x1="520.68" y1="485" x2="520.68" y2="845" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="2" />
+      <line x1="487.93" y1="485.23" x2="185.81" y2="845.23" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="2" />
+      <text transform="translate(445.74 464.44)" font-size="48" font-family="FiraSans-Light, Fira Sans">service</text>
+    </g>
+    <text class="service" transform="translate(801.74 464.44)" font-size="48" font-family="FiraSans-Light, Fira Sans">service</text>
+    <text class="service" transform="translate(82.74 464.44)" font-size="48" font-family="FiraSans-Light, Fira Sans">service</text>
+    <line class="connector" x1="554.81" y1="61.23" x2="856.93" y2="421.23" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="2" />
+    <line class="connector" x1="520.68" y1="61" x2="520.68" y2="421" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="2" />
+    <line class="connector" x1="487.93" y1="61.23" x2="185.81" y2="421.23" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="2" />
+    <text class="business" transform="translate(426.01 40.44)" font-size="48" font-family="FiraSans-Light, Fira Sans">business</text>
+  </g>
+</svg>

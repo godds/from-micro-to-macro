@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 700">
+<text transform="matrix(1 0 0 1 254.618 449.9615)" fill="#AF025C" font-family="'FiraSans-Light'" font-size="48px">and back again</text>
+<text transform="matrix(1 0 0 1 339.2662 607.5843)"><tspan x="0" y="0" fill="#231F20" font-family="'FiraSans-Book'" font-size="36px">Graham Odds</tspan><tspan x="59.2" y="40" fill="#231F20" font-family="'FiraSans-Book'" font-size="24px">@g_odds</tspan></text>
+<g>
+	<g>
+		<text transform="matrix(1 0 0 1 85.5531 306.7611)" fill="#2BB3BB" font-family="'FiraSans-Book'" font-size="72px">micro</text>
+	</g>
+	<polygon fill="#2BB3BB" points="392,331.8 284,304.8 284,267 392,219 	"/>
+	<text transform="matrix(1 0 0 1 320.1341 295.8335)" fill="#FFFFFF" font-family="'FiraSans-Book'" font-size="36px">to</text>
+	<text transform="matrix(1 0 0 1 2.8848 300.8332)" fill="#231F20" font-family="'FiraSans-Book'" font-size="36px">from</text>
+	<g>
+		<text transform="matrix(1 0 0 1 395.3736 328.3771)" fill="#2BB3BB" font-family="'FiraSans-Light'" font-size="160px">MACRO</text>
+	</g>
+</g>
+<g>
+	<g>
+		<path fill="none" stroke="#AF025C" stroke-width="5" stroke-miterlimit="10" d="M609,345c-81.8,81.8-297.4,81.6-401.7-4.6"/>
+		<g>
+			<polygon fill="#AF025C" points="218.4,333.4 194,328.4 201.9,352 			"/>
+		</g>
+	</g>
+</g>
+</svg>

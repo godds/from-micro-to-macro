@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 550">
+  <path d="M100,453.57C395,318.33,395.6,318.33,600,96.43" transform="translate(1)" fill="none" stroke="#ae1e69" stroke-miterlimit="10" stroke-width="3" />
+  <line x1="332" y1="500.5" x2="402" y2="500.5" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="3" />
+  <polygon points="399 507.48 411.95 500 399 492.52 399 507.48" />
+  <text transform="translate(289.73 504.5)" font-size="16" font-family="FiraSans-Book, Fira Sans">Price</text>
+  <line x1="67.5" y1="303" x2="67.5" y2="233" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="3" />
+  <polygon points="74.98 235 67.5 222.05 60.02 235 74.98 235" />
+  <text transform="translate(36.69 321.87)" font-size="16" font-family="FiraSans-Book, Fira Sans">Quantity</text>
+  <text transform="translate(611.17 92.03)" font-size="16" fill="#ae1e69" font-family="FiraSans-Book, Fira Sans">Supply</text>
+</svg>

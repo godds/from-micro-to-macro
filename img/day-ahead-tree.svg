@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2874.47 2177.23">
+  <g class="business">
+    <g class="service">
+      <g class="product">
+        <g class="flow">
+          <text transform="translate(2566.01 1311.44)" font-size="48" font-family="FiraSans-Light, Fira Sans">results</text>
+        </g>
+        <g class="flow">
+          <text transform="translate(1920.28 1311.44)" font-size="48" font-family="FiraSans-Light, Fira Sans">flexible hourly order</text>
+        </g>
+        <g class="flow">
+          <g class="task">
+            <text transform="translate(1751.9 1736.44)" font-size="48" font-family="FiraSans-Light, Fira Sans">copy</text>
+          </g>
+          <g class="task">
+            <text transform="translate(1597.42 1736.44)" font-size="48" font-family="FiraSans-Light, Fira Sans">edit</text>
+          </g>
+          <g class="task">
+            <text transform="translate(1392.96 1736.44)" font-size="48" font-family="FiraSans-Light, Fira Sans">create</text>
+          </g>
+          <line x1="1653.19" y1="1332.23" x2="1795.3" y2="1692.23" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="2" />
+          <line x1="1639.77" y1="1331.53" x2="1639.77" y2="1691.53" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="2" />
+          <line x1="1626.3" y1="1332.23" x2="1464.19" y2="1692.23" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="2" />
+          <text transform="translate(1516.35 1311.44)" font-size="48" font-family="FiraSans-Light, Fira Sans">block order</text>
+        </g>
+        <g class="flow">
+          <g class="task">
+            <text transform="translate(1240.9 1736.44)" font-size="48" font-family="FiraSans-Light, Fira Sans">copy</text>
+          </g>
+          <g class="task">
+            <text transform="translate(1171 2160.43)" font-size="48" font-family="FiraSans-Light, Fira Sans">µ</text>
+            <line x1="1142.19" y1="1757.23" x2="1184.3" y2="2117.23" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="2" />
+            <text transform="translate(1114 2160.43)" font-size="48" font-family="FiraSans-Light, Fira Sans">µ</text>
+            <line x1="1128.77" y1="1756.53" x2="1128.77" y2="2116.53" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="2" />
+            <text transform="translate(1059 2160.43)" font-size="48" font-family="FiraSans-Light, Fira Sans">µ</text>
+            <line x1="1115.3" y1="1757.23" x2="1073.19" y2="2117.23" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="2" />
+            <text transform="translate(1086.42 1736.44)" font-size="48" font-family="FiraSans-Light, Fira Sans">edit</text>
+          </g>
+          <g class="task">
+            <text transform="translate(992 2160.43)" font-size="48" font-family="FiraSans-Light, Fira Sans">µ</text>
+            <line x1="963.19" y1="1757.23" x2="1005.3" y2="2117.23" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="2" />
+            <text transform="translate(935 2160.43)" font-size="48" font-family="FiraSans-Light, Fira Sans">µ</text>
+            <line x1="949.77" y1="1756.53" x2="949.77" y2="2116.53" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="2" />
+            <text transform="translate(880 2160.43)" font-size="48" font-family="FiraSans-Light, Fira Sans">µ</text>
+            <line x1="936.3" y1="1757.23" x2="894.19" y2="2117.23" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="2" />
+            <text transform="translate(881.96 1736.44)" font-size="48" font-family="FiraSans-Light, Fira Sans">create</text>
+          </g>
+          <line x1="1142.19" y1="1332.23" x2="1284.3" y2="1692.23" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="2" />
+          <line x1="1128.77" y1="1331.53" x2="1128.77" y2="1691.53" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="2" />
+          <line x1="1115.3" y1="1332.23" x2="953.19" y2="1692.23" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="2" />
+          <text transform="translate(994.17 1311.44)" font-size="48" font-family="FiraSans-Light, Fira Sans">hourly order</text>
+        </g>
+        <g class="flow">
+          <g class="task">
+            <text transform="translate(695.78 1736.44)" font-size="48" font-family="FiraSans-Light, Fira Sans">upload</text>
+          </g>
+          <g class="task">
+            <text transform="translate(540.9 1736.44)" font-size="48" font-family="FiraSans-Light, Fira Sans">copy</text>
+          </g>
+          <g class="task">
+            <text transform="translate(471 2160.43)" font-size="48" font-family="FiraSans-Light, Fira Sans">µ</text>
+            <line x1="442.19" y1="1757.23" x2="484.3" y2="2117.23" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="2" />
+            <text transform="translate(414 2160.43)" font-size="48" font-family="FiraSans-Light, Fira Sans">µ</text>
+            <line x1="428.77" y1="1756.53" x2="428.77" y2="2116.53" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="2" />
+            <text transform="translate(359 2160.43)" font-size="48" font-family="FiraSans-Light, Fira Sans">µ</text>
+            <line x1="415.3" y1="1757.23" x2="373.19" y2="2117.23" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="2" />
+            <text transform="translate(366.89 1736.44)" font-size="48" font-family="FiraSans-Light, Fira Sans">check</text>
+          </g>
+          <g class="task">
+            <text transform="translate(292 2160.43)" font-size="48" font-family="FiraSans-Light, Fira Sans">µ</text>
+            <line x1="263.19" y1="1757.23" x2="305.3" y2="2117.23" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="2" />
+            <text transform="translate(235 2160.43)" font-size="48" font-family="FiraSans-Light, Fira Sans">µ</text>
+            <line x1="249.77" y1="1756.53" x2="249.77" y2="2116.53" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="2" />
+            <text transform="translate(180 2160.43)" font-size="48" font-family="FiraSans-Light, Fira Sans">µ</text>
+            <line x1="236.3" y1="1757.23" x2="194.19" y2="2117.23" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="2" />
+            <text transform="translate(198.57 1736.44)" font-size="48" font-family="FiraSans-Light, Fira Sans">filter</text>
+          </g>
+          <g class="task">
+            <text transform="translate(112 2160.43)" font-size="48" font-family="FiraSans-Light, Fira Sans">µ</text>
+            <line x1="83.19" y1="1757.23" x2="125.3" y2="2117.23" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="2" />
+            <text transform="translate(55 2160.43)" font-size="48" font-family="FiraSans-Light, Fira Sans">µ</text>
+            <line x1="69.77" y1="1756.53" x2="69.77" y2="2116.53" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="2" />
+            <text transform="translate(0 2160.43)" font-size="48" font-family="FiraSans-Light, Fira Sans">µ</text>
+            <line x1="56.3" y1="1757.23" x2="14.19" y2="2117.23" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="2" />
+            <text transform="translate(21.62 1736.44)" font-size="48" font-family="FiraSans-Light, Fira Sans">view</text>
+          </g>
+          <line x1="457.19" y1="1332.23" x2="769.3" y2="1692.23" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="2" />
+          <line x1="442.19" y1="1332.23" x2="584.3" y2="1692.23" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="2" />
+          <line x1="428.77" y1="1331.53" x2="428.77" y2="1691.53" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="2" />
+          <line x1="415.3" y1="1332.23" x2="253.19" y2="1692.23" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="2" />
+          <line x1="399.3" y1="1332.23" x2="87.19" y2="1692.23" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="2" />
+          <text transform="translate(268.51 1311.44)" font-size="48" font-family="FiraSans-Light, Fira Sans">order overview</text>
+        </g>
+        <line x1="1722.19" y1="909.23" x2="2634.3" y2="1269.23" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="2" />
+        <line x1="1672.19" y1="909.23" x2="2134.3" y2="1269.23" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="2" />
+        <line x1="1638.77" y1="908.53" x2="1638.77" y2="1268.53" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="2" />
+        <line x1="1605.3" y1="909.23" x2="1143.19" y2="1269.23" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="2" />
+        <line x1="1555.3" y1="909.23" x2="433.19" y2="1269.23" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="2" />
+        <text transform="translate(1471.7 888.44)" font-size="48" font-family="FiraSans-Light, Fira Sans">Day Ahead Web</text>
+      </g>
+      <line x1="1636.77" y1="484.53" x2="1636.77" y2="844.53" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="2" />
+      <text transform="translate(1522.97 464.44)" font-size="48" font-family="FiraSans-Light, Fira Sans">Day Ahead</text>
+    </g>
+    <line x1="1636.77" y1="60.53" x2="1636.77" y2="420.53" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="2" />
+    <text transform="translate(1528.87 40.44)" font-size="48" font-family="FiraSans-Light, Fira Sans">Nord Pool</text>
+  </g>
+</svg>

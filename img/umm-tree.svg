@@ -1,0 +1,53 @@
+<svg class="umm" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1967.8 1330.24">
+  <g class="service">
+    <g class="product">
+      <text transform="translate(1364.48 463.44)" font-size="48" font-family="FiraSans-Light, Fira Sans">UMM</text>
+      <line x1="1418.1" y1="484.07" x2="1418.1" y2="844.07" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="2" />
+      <g class="flow">
+        <text transform="translate(1673.04 1313.44)" font-size="48" font-family="FiraSans-Light, Fira Sans">infrastructure</text>
+        <text transform="translate(1513.34 1313.44)" font-size="48" font-family="FiraSans-Light, Fira Sans">create</text>
+        <text transform="translate(1344.99 1313.44)" font-size="48" font-family="FiraSans-Light, Fira Sans">details</text>
+        <text transform="translate(1187.95 1313.44)" font-size="48" font-family="FiraSans-Light, Fira Sans">filter</text>
+        <text transform="translate(1011 1313.44)" font-size="48" font-family="FiraSans-Light, Fira Sans">view</text>
+        <line x1="1446.57" y1="909.23" x2="1818.68" y2="1269.23" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="2" />
+        <line x1="1388.68" y1="909.23" x2="1076.57" y2="1269.23" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="2" />
+        <line x1="1431.57" y1="909.23" x2="1573.68" y2="1269.23" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="2" />
+        <line x1="1418.1" y1="908.07" x2="1418.1" y2="1268.07" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="2" />
+        <line x1="1404.68" y1="909.23" x2="1242.57" y2="1269.23" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="2" />
+        <text transform="translate(1311.44 888.44)" font-size="48" font-family="FiraSans-Light, Fira Sans">UMM Web</text>
+      </g>
+    </g>
+    <g class="product">
+    <text transform="translate(828.55 463.44)" font-size="48" font-family="FiraSans-Light, Fira Sans">Intraday</text>
+      <line x1="918.1" y1="484.07" x2="918.1" y2="844.07" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="2" />
+      <g class="flow">
+        <text transform="translate(775.56 888.44)" font-size="48" font-family="FiraSans-Light, Fira Sans">Intraday Web</text>
+      </g>
+    </g>
+    <g class="product">
+      <text transform="translate(293.12 463.44)" font-size="48" font-family="FiraSans-Light, Fira Sans">Day Ahead</text>
+      <line x1="407.1" y1="484.07" x2="407.1" y2="844.07" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="2" />
+      <g class="flow">
+        <text transform="translate(674.16 1313.44)" font-size="48" font-family="FiraSans-Light, Fira Sans">upload</text>
+        <text transform="translate(519.29 1313.44)" font-size="48" font-family="FiraSans-Light, Fira Sans">copy</text>
+        <text transform="translate(345.27 1313.44)" font-size="48" font-family="FiraSans-Light, Fira Sans">check</text>
+        <text transform="translate(176.95 1313.44)" font-size="48" font-family="FiraSans-Light, Fira Sans">filter</text>
+        <text transform="translate(0 1313.44)" font-size="48" font-family="FiraSans-Light, Fira Sans">view</text>
+        <line x1="435.57" y1="909.23" x2="747.68" y2="1269.23" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="2" />
+        <line x1="377.68" y1="909.23" x2="65.57" y2="1269.23" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="2" />
+        <line x1="420.57" y1="909.23" x2="562.68" y2="1269.23" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="2" />
+        <line x1="407.1" y1="908.07" x2="407.1" y2="1268.07" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="2" />
+        <line x1="393.68" y1="909.23" x2="231.57" y2="1269.23" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="2" />
+        <text transform="translate(240.08 888.44)" font-size="48" font-family="FiraSans-Light, Fira Sans">Day Ahead Web</text>
+      </g>
+    </g>
+    <line x1="950.61" y1="61.23" x2="1412.73" y2="421.23" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="2" />
+    <line x1="917.1" y1="61.07" x2="917.1" y2="421.07" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="2" />
+    <line x1="883.73" y1="61.23" x2="421.61" y2="421.23" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="2" />
+    <text transform="translate(809.02 40.44)" font-size="48" font-family="FiraSans-Light, Fira Sans">Nord Pool</text>
+  </g>
+  <g class="silos">
+    <line x1="632.1" y1="0.07" x2="632.1" y2="850.07" fill="none" stroke="#2bb3bb" stroke-miterlimit="10" stroke-width="10" />
+    <line x1="1163.1" y1="0.07" x2="1163.1" y2="850.07" fill="none" stroke="#2bb3bb" stroke-miterlimit="10" stroke-width="10" />
+  </g>
+</svg>
